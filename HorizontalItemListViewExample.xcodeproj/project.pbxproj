@@ -32,6 +32,7 @@
 /* Begin PBXFileReference section */
 		451A539E21C500B3003F8555 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		451A53A121C50143003F8555 /* Preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Preview.png; sourceTree = "<group>"; };
+		451A53A221C508F9003F8555 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		451C4DE921C4E507000FF62F /* HorizontalItemListViewExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HorizontalItemListViewExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		451C4DEC21C4E507000FF62F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		451C4DEE21C4E507000FF62F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				451A539E21C500B3003F8555 /* README.md */,
+				451A53A221C508F9003F8555 /* LICENSE.md */,
 				451A53A121C50143003F8555 /* Preview.png */,
 				451C4DEB21C4E507000FF62F /* Sources */,
 				451C4E0021C4E509000FF62F /* Tests */,
